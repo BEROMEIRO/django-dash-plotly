@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# Pytest
+.cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Migrations (opcional, se quiser manter só as aplicadas)
+*/migrations/__pycache__/
+*/migrations/*.pyc
+
+# Node (caso use)
+node_modules/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
