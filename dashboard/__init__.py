@@ -1,1 +1,1 @@
-from . import dash_apps
+from . import dash_app
